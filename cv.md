@@ -43,7 +43,7 @@ and build my career in IT.
 
 ---
 
-– [E-mail](mailto:danhalf@urk.net)  
+– [E-mail](mailto:danhalf@ukr.net)  
 – [Telegram](https://t.me/Suvorov_Aleks)  
 – [GitHub](https://github.com/Danhalf)
 
