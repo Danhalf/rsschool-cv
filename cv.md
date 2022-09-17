@@ -16,7 +16,11 @@ Zhytomyr, UA.
 My goal is to become a successful developer
 and build my career in IT.
 
+---
+
 ## **My skills**
+
+---
 
 | Languages  | Frameworks |      Others |
 | ---------- | :--------: | ----------: |
@@ -42,6 +46,39 @@ and build my career in IT.
 – [E-mail](danhalf@urk.net)  
 – [Telegram](https://t.me/Suvorov_Aleks)  
 – [GitHub](https://github.com/Danhalf)
+
+---
+
+## **Code example**
+
+**Task**:  
+_Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements._
+
+**Solution**:
+
+```javascript
+const moveZeros = (arr) => [...arr.filter((e) => e !== 0), ...arr.filter((e) => e === 0)];
+```
+
+---
+
+**Task**:  
+_The rgb function is incomplete. Complete it so that passing in RGB decimal values will result in a hexadecimal representation being returned. Valid decimal values for RGB are 0 - 255. Any values that fall out of that range must be rounded to the closest valid value._
+
+**Solution**:
+
+```javascript
+const rgb = (r, g, b) => {
+  Number.prototype.clamp = function (min, max) {
+    return Math.min(Math.max(this, min), max);
+  };
+  return [r, g, b].map((e) => e.clamp(0, 255)).map((x) => x.toString(16).padStart(2, '0')).join``.toUpperCase();
+};
+```
+
+---
+
+---
 
 ## **My education**
 
