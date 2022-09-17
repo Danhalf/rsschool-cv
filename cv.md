@@ -16,6 +16,25 @@ Zhytomyr, UA.
 My goal is to become a successful developer
 and build my career in IT.
 
+## **My skills**
+
+| Languages  | Frameworks |      Others |
+| ---------- | :--------: | ----------: |
+| HTML5      |    PUG     |    WebStorm |
+|            |    TWIG    |      VSCode |
+| CSS3       |    SCSS    |       Figma |
+|            |   STYLYS   | Adobe PS/XD |
+| Javascript |   React    |     Postman |
+|            |    Vue     |      Docker |
+|            |    Next    |      Trello |
+| TypeScript |            |         Git |
+| PHP        |            |       Linux |
+| PostgreSQL |            | Open Server |
+| MongoDB    |            |         API |
+| Firebase   |            |         CMS |
+
+---
+
 ## **My contacts**
 
 ---
