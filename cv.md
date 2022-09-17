@@ -2,7 +2,7 @@
    Oleksii Suvorov
 </p></h1>
 <p align="center">
-  <img src="avatar.jpg" />
+  <img src="https://github.com/Danhalf/rsschool-cv/blob/gh-pages/avatar.jpg" />
 </p>
 
 ---
