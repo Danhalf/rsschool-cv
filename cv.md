@@ -13,8 +13,9 @@
 
 Hey! I'm Oleksii, 32 years old.  
 Zhytomyr, UA.  
-My goal is to become a successful developer
-and build my career in IT.
+I began to be fascinated by web programming a years ago, e.g. developing apps and building websites.  
+My goal is to become a successful developer and build my career in IT.  
+This sphere develops every day, which gives me the opportunity to improve myself every day through hard work and learning new things.
 
 ---
 
@@ -43,9 +44,10 @@ and build my career in IT.
 
 ---
 
-– [E-mail](mailto:danhalf@ukr.net)  
-– [Telegram](https://t.me/Suvorov_Aleks)  
-– [GitHub](https://github.com/Danhalf)
+- [E-mail](mailto:danhalf@ukr.net)
+- [Telegram](https://t.me/Suvorov_Aleks)
+- [GitHub](https://github.com/Danhalf)
+- Discord – Oleksii Suvorov (@Danhalf)
 
 ---
 
@@ -93,6 +95,16 @@ Faculty of Computer Science, Physics and Mathematics
 
 _April 2012 - current_  
 Sys. Administration, Armed Forces of Ukraine
+
+---
+
+## **My projects**
+
+---
+
+[CV](https://danhalf.github.io/CV/)
+
+---
 
 ## **Languages**
 
